@@ -46,3 +46,16 @@ button {
   border: 5px darkblue solid;
   border-radius: 15%;
 }
+
+.card {
+  position: fixed;
+  top: 40px;
+  left: 40px;
+  border-radius: 30px;
+  width: 100px;
+  height: 100px;
+}
+
+.card > img {
+  height: 100px;
+}
