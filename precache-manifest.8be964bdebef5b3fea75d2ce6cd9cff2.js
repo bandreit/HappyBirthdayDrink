@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6765d6709093fcaa4cc8ce71aff96048",
+    "revision": "6b215759c6297d185b8ff8d2f72538e2",
     "url": "/HappyBirthdayDrink/index.html"
   },
   {
-    "revision": "fb6be2c5dfaa1e32e6aa",
+    "revision": "13a3a62c0a13596f56a8",
     "url": "/HappyBirthdayDrink/static/css/main.0507893e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HappyBirthdayDrink/static/js/2.7632c218.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb6be2c5dfaa1e32e6aa",
-    "url": "/HappyBirthdayDrink/static/js/main.3092ef22.chunk.js"
+    "revision": "13a3a62c0a13596f56a8",
+    "url": "/HappyBirthdayDrink/static/js/main.1e7c172a.chunk.js"
   },
   {
     "revision": "7dbae7aa33b08dccd152",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HappyBirthdayDrink/static/media/gura.dfa24db1.png"
   },
   {
-    "revision": "ed990a91a028f6568f8b9142a32ead62",
-    "url": "/HappyBirthdayDrink/static/media/mana.ed990a91.png"
+    "revision": "584394e9b5ad7aab61717ceb145d73a2",
+    "url": "/HappyBirthdayDrink/static/media/mana.584394e9.png"
   },
   {
     "revision": "1ce5e50363b377198515c9599d822c90",
